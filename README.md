@@ -1,1 +1,1 @@
-# event-driven-software-in-java-swing
+This project creates a simple JAVA-based drawing program, which allows the user to draw rectangles on the screen. It also implements the common "rubber banding" interaction technique, which shows a live preview of an in-progress rectangle while it's being drawn, giving the user feedback about its ultimate position and size on screen.
